@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+CHATKIT
+Es un chat desarrollado en React que va conectado a una API previamente relacionada y precargada con la información de los participantes creada en Chat Engine, el lenguaje utilizado para la logia es Javascript y para el cuerpo HTML y para los estilos CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Installation
+Para la installación es importante contar con una cuenta en https://chatengine.io/ donde se creara 1 un proyecto que nos dará el ID para conectar la base de datos y poder agregar y gestionar a los participantes del Chat
 
-## Available Scripts
+luego se debe clonar el siguiente Git: https://github.com/wjulifajarb/CHATKIT.git en consola pude escribir el comando git clone y pegar el link anterior y asi obtendra el proyecto luego por favor dentro del proyecto escriba los siguientes comandos
 
-In the project directory, you can run:
+npm install (para installar react)
+npm install @ant-design/icons axios react-chat-engine (para installar las dependencias
+necesarias para que el proyecto corra)
+npm start (para inicializar el proyecto )
 
-### `npm start`
+IMPORTANTE 
+al crear el usuario en Chatengine.io y optener el ID DEL PROYECTO 
+debe ingresar al editor del codigo y cambiar la liena de codigo que diga  const projectID = '6646ee2f-241d-453c-83b4-b0f05042165b'; en el archivo APP.JS e igualmente en el arcicho LoginForm estos se encuentran en la carpeta SRC - COMPONENTS  
+esto se debe a que previamente deben estar inscritos los estudiantes para que se puedan logiar e ingresar al chat de la clase ya que el chat su base parte de esta API 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Usos
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Es un chat para que le permite al moderador crear la clase y agregar a los estudiantes previamente, estos deben logiarse para ingresar al chat este tiene sonido para las notificaciones y tambien permite enviar imagenes y por ultimo almacenar el historial del chat al menos que el moderador quiera borrarlo del todo 
 
-### `npm test`
+screen shots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Captura de pantalla de 2021-05-26 10-13-14](https://user-images.githubusercontent.com/44068486/119689094-300e5f80-be0e-11eb-8ea8-01c8862233f8.png)
+![Captura de pantalla de 2021-05-26 10-13-57](https://user-images.githubusercontent.com/44068486/119689127-356baa00-be0e-11eb-96dd-1500aaf9a063.png)
+![Captura de pantalla de 2021-05-26 10-14-12](https://user-images.githubusercontent.com/44068486/119689137-37ce0400-be0e-11eb-94b3-4cbb73002979.png)
+![Captura de pantalla de 2021-05-26 10-14-40](https://user-images.githubusercontent.com/44068486/119689147-3997c780-be0e-11eb-9587-fc4f9142ebfb.png)
+![Captura de pantalla de 2021-05-26 10-15-36](https://user-images.githubusercontent.com/44068486/119689160-3bfa2180-be0e-11eb-94d2-cb6f9f51430f.png)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Deploy responsivo https://chatkit.netlify.app/
+Gracias
