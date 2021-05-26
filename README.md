@@ -1,3 +1,5 @@
+![Captura de pantalla de 2021-05-26 09-54-36](https://user-images.githubusercontent.com/44068486/119690444-4ff25300-be0f-11eb-9dac-47c0b2e2cbb0.png)
+![Captura de pantalla de 2021-05-26 09-54-42](https://user-images.githubusercontent.com/44068486/119690460-541e7080-be0f-11eb-99e1-7e84a57b31d8.png)
 CHATKIT
 Es un chat desarrollado en React que va conectado a una API previamente relacionada y precargada con la información de los participantes creada en Chat Engine, el lenguaje utilizado para la logia es Javascript y para el cuerpo HTML y para los estilos CSS
 
@@ -27,6 +29,12 @@ screen shots
 ![Captura de pantalla de 2021-05-26 10-14-12](https://user-images.githubusercontent.com/44068486/119689137-37ce0400-be0e-11eb-94b3-4cbb73002979.png)
 ![Captura de pantalla de 2021-05-26 10-14-40](https://user-images.githubusercontent.com/44068486/119689147-3997c780-be0e-11eb-9587-fc4f9142ebfb.png)
 ![Captura de pantalla de 2021-05-26 10-15-36](https://user-images.githubusercontent.com/44068486/119689160-3bfa2180-be0e-11eb-94d2-cb6f9f51430f.png)
+![Captura de pantalla de 2021-05-26 09-54-36](https://user-images.githubusercontent.com/44068486/119690485-5a145180-be0f-11eb-8067-f11fcb8459f1.png)
+![Captura de pantalla de 2021-05-26 09-54-42](https://user-images.githubusercontent.com/44068486/119690495-5c76ab80-be0f-11eb-9a04-0169929ac8b8.png)
+![Captura de pantalla de 2021-05-26 09-54-50](https://user-images.githubusercontent.com/44068486/119690527-64365000-be0f-11eb-8972-97c5b4777699.png)
+![Captura de pantalla de 2021-05-26 09-55-14](https://user-images.githubusercontent.com/44068486/119690540-67c9d700-be0f-11eb-9dea-1c21c9b8ac6b.png)
+![Captura de pantalla de 2021-05-26 09-55-30](https://user-images.githubusercontent.com/44068486/119690559-6a2c3100-be0f-11eb-855a-6efe7d70ac60.png)
+
 
 Deploy responsivo https://chatkit.netlify.app/
 Gracias
