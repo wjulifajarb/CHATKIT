@@ -1,5 +1,4 @@
-![Captura de pantalla de 2021-05-26 09-54-36](https://user-images.githubusercontent.com/44068486/119690444-4ff25300-be0f-11eb-9dac-47c0b2e2cbb0.png)
-![Captura de pantalla de 2021-05-26 09-54-42](https://user-images.githubusercontent.com/44068486/119690460-541e7080-be0f-11eb-99e1-7e84a57b31d8.png)
+
 CHATKIT
 Es un chat desarrollado en React que va conectado a una API previamente relacionada y precargada con la información de los participantes creada en Chat Engine, el lenguaje utilizado para la logia es Javascript y para el cuerpo HTML y para los estilos CSS
 
